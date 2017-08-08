@@ -1,0 +1,8 @@
+# node.js
+node_modules/
+
+#config file
+config.json
+
+#VS stuff
+.vs/

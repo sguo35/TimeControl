@@ -1,0 +1,5 @@
+﻿  TimeLibrary.cpp
+c:\users\jeff\documents\visual studio 2017\projects\timelibrary\timelibrary\timelibrary.cpp(17): warning C4101: 'idle_time': unreferenced local variable
+     Creating library c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Debug\TimeLibrary.lib and object c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Debug\TimeLibrary.exp
+  TimeLibrary.vcxproj -> c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Debug\TimeLibrary.dll
+  TimeLibrary.vcxproj -> c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Debug\TimeLibrary.pdb (Partial PDB)

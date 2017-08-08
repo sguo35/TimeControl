@@ -1,0 +1,9 @@
+﻿  TimeLibrary.cpp
+TimeLibrary.cpp(17): warning C4101: 'idle_time': unreferenced local variable
+     Creating library c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Release\TimeLibrary.lib and object c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Release\TimeLibrary.exp
+  Generating code
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TimeLibrary.vcxproj -> c:\users\jeff\documents\visual studio 2017\Projects\TimeLibrary\Release\TimeLibrary.dll
